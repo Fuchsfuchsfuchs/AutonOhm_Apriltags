@@ -3,7 +3,7 @@ The Apriltags used in the TH Nürnberg AutonOhm Team, which participates in the 
 
 ## Version 1 Overview:
 Tag family: 36h11 
-Generated with [ApriltTag Generator](https://chaitanyantr.github.io/apriltag.html "AprilTag Generator")  
+Generated with [AprilTag Generator](https://chaitanyantr.github.io/apriltag.html "AprilTag Generator")  
 Font (Public Domain and [Monospace](https://en.wikipedia.org/wiki/Monospaced_font)): [Inflammable_Age](https://www.dafont.com/inflammable-age.font "DaFont")   
 3D Printing Recommendations: Infill [Gyroid](https://help.prusa3d.com/article/infill-patterns_177130) with XX% density.  
 Dimensions: 42x42x42 Millimeters. Radius 1mm on Corners.
